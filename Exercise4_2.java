@@ -20,4 +20,10 @@ public class Exercise4_2 {
             System.out.println("boo-wa-ha-ha"); // 9
         }
     }
-}
+
+/*
+ik
+rattle
+ping zoop
+boo-wa-ha-ha
+*/
